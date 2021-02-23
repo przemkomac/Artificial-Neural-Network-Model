@@ -1,7 +1,7 @@
 # Nauczyć SSN realizacji funkcji
 
 ## Sieć powinna mieć zdolność uogólniania:
-- funkcja a) `f(x,y)=y*ln(n)
+- funkcja a) `f(x,y)=y*ln(n)`
 - funkcja b) `f(x,y)=2*y*sin((x-1)/20)`
 
 ## Dane:
